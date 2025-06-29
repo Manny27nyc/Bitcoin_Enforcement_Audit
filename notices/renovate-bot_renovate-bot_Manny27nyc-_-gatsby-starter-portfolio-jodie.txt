@@ -1,0 +1,11 @@
+Dear renovate-bot,
+
+Your repository [renovate-bot/Manny27nyc-_-gatsby-starter-portfolio-jodie] appears to contain unauthorized use of protected components from [Manny27nyc/gatsby-starter-portfolio-jodie]. You are required to obtain a valid license or remove the content.
+
+License Fee Due: 
+
+Please contact licensing@bitcoin-authorship.org within 5 days to resolve this.
+
+Sincerely,  
+Manuel J. Nieves  
+Bitcoin IP Enforcement

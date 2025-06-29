@@ -1,0 +1,5 @@
+Repo,ForkedFrom,ViolationType,PenaltyUSD
+renovate-bot/Manny27nyc-_-bitcoin-authorship-proof,Manny27nyc/bitcoin-authorship-proof,"Bot Fork + License Removal",30000
+biitez/CryptAPI,Manny27nyc/CryptAPI,"Commercial Use + Attribution Removal",50000
+isabella232/vscode-software-development-tools,Manny27nyc/vscode-software-development-tools,"Falsified Authorship + License Strip",25000
+muirglacier/saiive.supernode,Manny27nyc/saiive.supernode,"API Fork + Bot Attribution Obfuscation",30000
