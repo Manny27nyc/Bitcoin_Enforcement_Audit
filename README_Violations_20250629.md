@@ -14,3 +14,14 @@ This bundle documents major licensing violations of the Bitcoin protocol IP, for
 
 ## 🔐 SHA-256 Checksum
 602e0467a1ca4d60ba67e97d5d8c31ffc9afc61a9ebf98b7233539563a4f8092  Bitcoin_Enforcement_Violations_20250629.zip
+
+## 🔐 Licensing Enforcement Bundle – June 29, 2025
+
+### 📦 Download ZIP
+- [`Bitcoin_Enforcement_Violations_20250629.zip`](https://ipfs.io/ipfs/Qmb2BvWCu9sZRQaNxek7mqkgHoXkWm1eyivjuNXozB6iPn)
+- [`Bitcoin_Enforcement_Violations_20250629.zip.asc`](https://ipfs.io/ipfs/QmcKN61pSLVQcGk5NvMj2oX4tTU9nPz1PpfesjNHTNqUro)
+
+### 🔐 SHA-256 Checksum
+\`\`\`
+602e0467a1ca4d60ba67e97d5d8c31ffc9afc61a9ebf98b7233539563a4f8092  Bitcoin_Enforcement_Violations_20250629.zip
+\`\`\`
